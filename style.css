@@ -1,5 +1,11 @@
 p {
-  background-color: aquamarine;
+  background-color: rgb(35, 88, 71);
   color: chartreuse;
   font-size: 20px;
+}
+h3 {
+  background-color: azure;
+  color: crimson;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
